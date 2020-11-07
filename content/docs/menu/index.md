@@ -2,4 +2,6 @@
 headless = true
 +++
 
-- [Introduction]({{< relref "/docs/introduction" >}})
+- [About Me]({{< relref "/docs/about-me" >}})
+- [Introduction]({{< relref "/docs/introduction" >}}) 
+- [Environment Setup]({{< relref "/docs/installation" >}})
