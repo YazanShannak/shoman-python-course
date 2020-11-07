@@ -5,3 +5,9 @@ title: "Introduction"
 ---
 
 # Introduction
+
+
+
+## What is a programming language?
+
+ <img src="/interpeter.png">
