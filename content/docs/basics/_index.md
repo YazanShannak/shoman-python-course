@@ -7,3 +7,10 @@ title: "Basics"
 # Basics
 
 In this section, we'll discuss the basics of the Python programming lanaguage, and the building blocks of a simple Python program
+
+
+
+```python
+name = "Yazan"
+```
+
