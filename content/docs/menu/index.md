@@ -2,8 +2,9 @@
 headless = true
 +++
 
-- [About Me]({{< relref "/docs/about-me" >}})
-- [Introduction]({{< relref "/docs/introduction" >}})
-- [Environment Setup]({{< relref "/docs/installation" >}})
+- [Introduction]({{<relref "/docs/about-me">}})
+  - [About Me]({{< relref "/docs/about-me" >}})
+  - [Python Introduction]({{< relref "/docs/introduction" >}})
+  - [Environment Setup]({{< relref "/docs/installation" >}})
 - [Basics]({{< relref "/docs/basics" >}})
   - [Variables]({{<relref "/docs/basics/variables">}})
