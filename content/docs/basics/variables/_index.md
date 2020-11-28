@@ -5,6 +5,8 @@ title: "Variables"
 ---
 
 # Variables المتغيرات
+
+## What are variables?
 <p>
   Variables are containers :honey_pot: that store some values, and they are very essential
   in programming

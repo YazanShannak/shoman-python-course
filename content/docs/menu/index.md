@@ -8,3 +8,4 @@ headless = true
   - [Environment Setup]({{< relref "/docs/installation" >}})
 - [Basics]({{< relref "/docs/basics" >}})
   - [Variables]({{<relref "/docs/basics/variables">}})
+  - [Primitive Types]({{< relref "/docs/basics/primitives" >}})
