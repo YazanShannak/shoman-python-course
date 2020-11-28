@@ -2,10 +2,14 @@ baseURL = "http://python-shoman.me/"
 languageCode = "en-us"
 title = "Python Course"
 theme = "book"
+staticDir = ["static"]
+enableEmoji = true
+
 
 [markup]
 [markup.goldmark.renderer]
   unsafe = true
+
 
 [params]
     BookTheme = "light"
