@@ -9,3 +9,5 @@ headless = true
 - [Basics]({{< relref "/docs/basics" >}})
   - [Variables]({{<relref "/docs/basics/variables">}})
   - [Primitive Types]({{< relref "/docs/basics/primitives" >}})
+  - [Operations]({{<relref "/docs/basics/operations">}})
+
