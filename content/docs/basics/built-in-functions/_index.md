@@ -99,3 +99,40 @@ Output
 ```
 You are 25 years old
 ```
+
+
+<br>
+<br>
+
+### sum جمع
+- Adds the number inside a [list]({{<relref "/docs/data-structures/lists">}}) تقوم بجمع الارقام داخل [لائحة]({{<relref "/docs/data-structures/lists">}})
+- Returns the result of the summation as number يعيد لنا ناتج الجمع كرقم
+- Accepts only a list of numbers يقبل لائحة ارقام كمعطى
+
+```python
+numbers = [1, 2, 3]
+total = sum(numbers)
+print(total)
+```
+Output
+```
+6
+```
+
+<br>
+<br>
+
+### len طول
+- Counts the items inside a [list]({{<relref "/docs/data-structures/lists">}}) تقوم بعد القيم  داخل [لائحة]({{<relref "/docs/data-structures/lists">}})
+- Returns the count as number يعيد لنا ناتج العد كرقم
+- Accepts only a list of any type يقبل لائحة باي قيم داخلها كمعطى
+
+```python
+people = ["Yazan", "Leen", "Zaid", "Sanad"]
+number_of_people = len(people)
+print(number_of_people)
+```
+Output
+```
+4
+```
