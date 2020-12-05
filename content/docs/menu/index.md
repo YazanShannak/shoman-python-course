@@ -11,5 +11,6 @@ headless = true
   - [Primitive Types]({{< relref "/docs/basics/primitives" >}})
   - [Operations]({{<relref "/docs/basics/operations">}})
   - [Built-in Functions]({{<relref "/docs/basics/built-in-functions">}})
-
+- [Data Strucutres]({{< relref "/docs/data-structures" >}})
+  - [Lists]({{<relref "/docs/data-structures/lists">}})
 
