@@ -2,7 +2,7 @@
 headless = true
 +++
 
-- [Introduction]({{<relref "/docs/about-me">}})
+- [Introduction]({{<relref "/">}})
   - [About Me]({{< relref "/docs/about-me" >}})
   - [Python Introduction]({{< relref "/docs/introduction" >}})
   - [Environment Setup]({{< relref "/docs/installation" >}})
@@ -10,4 +10,6 @@ headless = true
   - [Variables]({{<relref "/docs/basics/variables">}})
   - [Primitive Types]({{< relref "/docs/basics/primitives" >}})
   - [Operations]({{<relref "/docs/basics/operations">}})
+  - [Built-in Functions]({{<relref "/docs/basics/built-in-functions">}})
+
 
