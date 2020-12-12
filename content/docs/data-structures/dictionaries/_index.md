@@ -84,3 +84,62 @@ person_2 = {"first_name": "Zaid", "last_name": "Shannak", "age": 22, "knows_pyth
 2. Value قيمة
 
 <img src="/dictionary-key-value.png">
+
+<br>
+<br>
+
+1. Start a dictionary with curly brackets {} ابدا تعريف القاموس باقواس معكوفة
+2. Add items with a comma , to seperate between them just like lists قم باضافة المعلومات داخل القاموس و افصل بينهم بفاصلة
+3. Each item has to have a <em>key</em> and a <em>value</em> seperated by a colon : لكل معلومة يجب ان يكون لها <em>مفتاح</em> و <em>قيمة</em> ويفصل بينهم بنقطتين رأسيتين
+
+<br>
+
+```python
+student = {"name" : "Yazan", "grade": "95"}
+```
+
+<br>
+<br>
+
+## Get value from dictionary استخراج القيم من القاموس
+
+<p>To get a value from the dictionary, we need to use its key</p>
+<p style='direction: rtl'>لاسترجاع قيمة / معلومة ما من القاموس, نبحث عنها باستخدام المفتاح</p>
+
+```python
+student = {"name": "Yazan", "age":25, "grade": 95}
+
+print(student["name"])
+```
+
+Output
+
+```
+Yazan
+```
+
+```python
+student = {"name": "Yazan", "age":25, "grade": 95}
+
+print(student["age"])
+```
+
+Output
+
+```
+25
+```
+
+## Add item to a dictionary اضافة معلومة الى القاموس
+
+```python
+student = {"name":"Yazan", "age":25, "grade":94}
+student["passed"] = student["grade"] >= 50
+print(student)
+```
+
+Output
+
+```
+{'name': 'Yazan', 'age': 25, 'grade': 94, 'passed': True}
+```
