@@ -160,7 +160,7 @@ Hello Yazan
 
 ### Repetetion التكرار
 
-<p>We can repeat a string a number of times by multiplying it to an <em><u>integer</u></em></p>
+<p>We can repeat a string a number of times by multiplying it by an <em><u>integer</u></em></p>
 <p style='direction: rtl'>نستطيع تكرار نص معين بضربها <em><u>برقم صحيح</u></em></p>
 
 ```python
