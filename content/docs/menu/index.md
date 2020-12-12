@@ -13,5 +13,6 @@ headless = true
   - [Built-in Functions]({{<relref "/docs/basics/built-in-functions">}})
 - [Data Strucutres]({{< relref "/docs/data-structures" >}})
   - [Lists]({{<relref "/docs/data-structures/lists">}})
+  - [Dictionaries]({{<relref "/docs/data-structures/dictionaries">}})
 - [Control Flow]({{<relref "/docs/control-flow">}})
   - [If Statements]({{<relref "/docs/control-flow/if-statement">}})
