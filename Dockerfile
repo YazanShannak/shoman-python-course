@@ -11,4 +11,6 @@ RUN hugo -D
 
 FROM nginx:latest
 
+
+
 COPY --from=builder /code/public /usr/share/nginx/html
